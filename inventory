@@ -1,0 +1,3 @@
+100.26.225.142
+
+ssh -i "vm1.pem" ec2-user@ec2-54-193-146-87.us-west-1.compute.amazonaws.com
